@@ -7,7 +7,7 @@
     display: inline-block;
     width: 280px;
     margin: 10px;
-}
+ }
 
 .field {
     display: inline-block;
@@ -24,4 +24,5 @@
 
 .field:active {
     background-image: url(images/face.png);
+    background-color: #09be21;
 }

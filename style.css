@@ -3,6 +3,12 @@
     margin: 0;
 }
 
+.row {
+    display: inline-block;
+    width: 280px;
+    margin: 10px;
+}
+
 .field {
     display: inline-block;
     border: 1px solid #be2409;
@@ -13,4 +19,9 @@
 
 .field:hover {
     background-color: #be2409;
+    /* background-image: url(images/face.png); */
+}
+
+.field:active {
+    background-image: url(images/face.png);
 }

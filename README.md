@@ -1,2 +1,2 @@
-# anchor_and_anchois
+# mypaint
 Simple app where you can change images.

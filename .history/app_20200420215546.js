@@ -9,10 +9,4 @@ boberFunc2 = () => {
 console.log(ter.getTime())
 }
 
-colChange = () => {
-    var elem = document.querySelector(".field2");
-    console.log("uuuutttt")
-    
-    elem.style.backgroundColor = "red";
-    console.log("koniec");
-}
+col

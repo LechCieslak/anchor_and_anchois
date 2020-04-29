@@ -10,9 +10,14 @@ console.log(ter.getTime())
 }
 
 colChange = () => {
-    var elem = document.querySelector(".field2");
+    
+    var elem = document.querySelector(".field");
     console.log("uuuutttt")
     
-    elem.style.backgroundColor = "red";
+    var a = (Math.floor(Math.random()*8));
+    var b = colors[a];
+    console.log(b);
+     
+    elem.style.backgroundColor = b;
     console.log("koniec");
 }

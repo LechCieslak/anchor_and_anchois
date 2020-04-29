@@ -19,8 +19,8 @@
 
 .field:hover {
     background-color: #be2409;
-    /* background-image: url(images/face.png); */
-}
+    /* background-image: url(images/face.png);
+} 
 
 .field:active {
     background-image: url(images/face.png);

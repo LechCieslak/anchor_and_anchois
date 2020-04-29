@@ -13,6 +13,6 @@ colChange = () => {
     var elem = document.querySelector(".field2");
     console.log("uuuutttt")
     
-    elem.style.backgroundColor = "red";
+    elem.style.backgroundColor = "#be2409";
     console.log("koniec");
 }
